@@ -2,6 +2,8 @@
 name = "hyper-tokio-io"
 version = "0.1.0"
 edition = "2024"
+description = "Utilities type `TokioIo` from hyper-util"
+license = "MIT"
 
 [dependencies]
 hyper = "1.6.0"
